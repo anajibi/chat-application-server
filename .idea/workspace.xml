@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Chat_Application_Phase2_Server_V2__c" targetName="Chat_Application_Phase2_Server_V2__c" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b49760db-150c-40bd-a7b3-64224890dfd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Wt7FrffRSpDVDvpiL1pFGYlszs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CMakeLists.txt" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alin2\Desktop\Chat_Application_Phase2_Server V2 .c" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Chat_Application_Phase2_Server_V2__c" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Chat_Application_Phase2_Server_V2__c" TARGET_NAME="Chat_Application_Phase2_Server_V2__c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Chat_Application_Phase2_Server_V2__c" RUN_TARGET_NAME="Chat_Application_Phase2_Server_V2__c">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b49760db-150c-40bd-a7b3-64224890dfd0" name="Default Changelist" comment="" />
+      <created>1579956936230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579956936230</updated>
+      <workItem from="1579956937714" duration="3131000" />
+      <workItem from="1580036326197" duration="5818000" />
+      <workItem from="1580121994576" duration="2717000" />
+      <workItem from="1580130619239" duration="888000" />
+      <workItem from="1580133699300" duration="2984000" />
+      <workItem from="1580217182668" duration="12754000" />
+      <workItem from="1580241974887" duration="3727000" />
+      <workItem from="1580291441313" duration="12715000" />
+      <workItem from="1580369375503" duration="5656000" />
+      <workItem from="1580380166143" duration="11158000" />
+      <workItem from="1580425020586" duration="663000" />
+      <workItem from="1580455958023" duration="6906000" />
+      <workItem from="1580464071591" duration="3729000" />
+      <workItem from="1580467837006" duration="169000" />
+      <workItem from="1580468049006" duration="43000" />
+      <workItem from="1580543628886" duration="2693000" />
+      <workItem from="1580586099360" duration="603000" />
+      <workItem from="1580599451046" duration="299000" />
+      <workItem from="1580674627963" duration="76000" />
+      <workItem from="1580724020133" duration="1933000" />
+      <workItem from="1580738872541" duration="667000" />
+      <workItem from="1580749693579" duration="6427000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="18" key="#Notifications" timestamp="1580377918246">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="18" key="#Notifications/0.0.1280.720@0.0.1280.720" timestamp="1580377918246" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580127431260">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1580127431260" />
+    <state x="785" y="95" key="#xdebugger.XInspectDialog" timestamp="1580460559598">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="785" y="95" key="#xdebugger.XInspectDialog/0.0.1280.720@0.0.1280.720" timestamp="1580460559598" />
+    <state width="690" height="466" key="DebuggerActiveHint" timestamp="1580466419075">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="690" height="466" key="DebuggerActiveHint/0.0.1280.720@0.0.1280.720" timestamp="1580466419075" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1580040630043">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580040630043" />
+    <state width="1222" height="229" key="GridCell.Tab.0.bottom" timestamp="1580739539454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="229" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580739539454" />
+    <state width="1222" height="336" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1580560433443" />
+    <state width="1222" height="229" key="GridCell.Tab.0.center" timestamp="1580739539454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="229" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580739539454" />
+    <state width="1222" height="336" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1580560433443" />
+    <state width="1222" height="229" key="GridCell.Tab.0.left" timestamp="1580739539454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="229" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580739539454" />
+    <state width="1222" height="336" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1580560433443" />
+    <state width="1222" height="229" key="GridCell.Tab.0.right" timestamp="1580739539454">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1222" height="229" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580739539454" />
+    <state width="1222" height="336" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1580560433443" />
+    <state width="1236" height="348" key="GridCell.Tab.1.bottom" timestamp="1580599749981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580599749981" />
+    <state width="1222" height="336" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1580560433445" />
+    <state width="1236" height="348" key="GridCell.Tab.1.center" timestamp="1580599749981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1580599749981" />
+    <state width="1222" height="336" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1580560433444" />
+    <state width="1236" height="348" key="GridCell.Tab.1.left" timestamp="1580599749981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1580599749981" />
+    <state width="1222" height="336" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1580560433444" />
+    <state width="1236" height="348" key="GridCell.Tab.1.right" timestamp="1580599749981">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="348" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1580599749981" />
+    <state width="1222" height="336" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1580560433444" />
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1580749693635">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="337" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1580749693635" />
+    <state x="337" y="174" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1580543632680" />
+    <state x="297" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580041093534">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="297" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.680@0.0.1280.680" timestamp="1580041093534" />
+    <state x="203" y="97" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1580460994977">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="203" y="97" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.720@0.0.1280.720" timestamp="1580460994977" />
+    <state x="382" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1580724255462">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="382" y="0" key="refactoring.ChangeSignatureDialog/0.0.1280.680@0.0.1280.680" timestamp="1580724255462" />
+    <state x="304" y="164" key="run.anything.popup" timestamp="1580243156154">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="304" y="164" key="run.anything.popup/0.0.1280.720@0.0.1280.720" timestamp="1580243156154" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1580401594396">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1580401594396" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>449</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>428</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>155</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.c</url>
+          <line>92</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="mainDataBase" language="ObjectiveC" />
+        <watch expression="onlineUsersCount" language="ObjectiveC" />
+        <watch expression="onlineUsers" language="ObjectiveC" />
+        <watch expression="onlineChannelsCount" language="ObjectiveC" />
+        <watch expression="channelsInfo" language="ObjectiveC" />
+        <watch expression="userIndex" />
+        <watch expression="response" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

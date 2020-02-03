@@ -1,0 +1,3 @@
+C:/Users/alin2/Desktop/Chat_Application_Phase2_Server V2 .c/cmake-build-debug/CMakeFiles/Chat_Application_Phase2_Server_V2__c.dir
+C:/Users/alin2/Desktop/Chat_Application_Phase2_Server V2 .c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/alin2/Desktop/Chat_Application_Phase2_Server V2 .c/cmake-build-debug/CMakeFiles/rebuild_cache.dir

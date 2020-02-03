@@ -1,0 +1,221 @@
+[{
+
+
+"sender":
+"server",
+
+
+"content":
+"ali created channel a"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"server",
+
+
+"content":
+"ali joined the channel"
+
+}, {
+
+
+"sender":
+"ali",
+
+
+"content":
+"ali is hereeerjksdanfkjsnflsaf"
+
+}]

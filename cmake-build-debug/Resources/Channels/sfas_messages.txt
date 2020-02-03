@@ -1,0 +1,7 @@
+[{
+		"sender":	"server",
+		"content":	"ali created channel sfas"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}]

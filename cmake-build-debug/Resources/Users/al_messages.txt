@@ -1,0 +1,67 @@
+[{
+		"sender":	"server",
+		"content":	"ali created channel a"
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"ali",
+		"content":	"ali najibi is testing your server"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"al joined the channel"
+	}]

@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2019.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\alin2\Desktop\Chat_Application_Phase2_Server V2 .c"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/alin2/Desktop/Chat_Application_Phase2_Server V2 .c/cmake-build-debug

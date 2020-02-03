@@ -1,0 +1,25 @@
+[{
+		"sender":	"server",
+		"content":	"al created channel ali"
+	}, {
+		"sender":	"server",
+		"content":	"al left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"al joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"server",
+		"content":	"ali left the channel."
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}, {
+		"sender":	"ali",
+		"content":	"asdfdsafsadfasfdsa"
+	}, {
+		"sender":	"server",
+		"content":	"ali joined the channel"
+	}]
